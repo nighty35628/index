@@ -4,7 +4,7 @@
 
 青年大学习软件下载请点最后一个
 
-wl的图床：[门瑞欧浆果](https://image.e-loli.com/).
+wl的图床：[门瑞欧浆果](http://114.115.133.71:4396/).
 
 wl的mc服务器：[建设中的nightytale](https://nightytale.e-loli.com/)
 
